@@ -11,15 +11,15 @@
   "logo": "https://ibb.co/kMVxrCj",
   "env": {
     "HASH": {
-      "description": "Your API HASH from my.telegram.org",
+      "description": "b7f44a7578eed79dd303267ac49642b3",
       "required": true
     },
     "ID": {
-      "description": "Your API ID from my.telegram.org",
+      "description": "24572560",
       "required": true
     },
     "TOKEN":{
-      "description": "Your bot token from @BotFather",
+      "description": "7111573889:AAF_0N1as4bxN4YUpYAg7VTHo6mXllpqveg",
       "required": true
     },
     "TERA_COOKIE": {
